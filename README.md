@@ -8,21 +8,19 @@ Official list of [awesome](https://github.com/topics/awesome) BCMS resources, ar
 ## Contents
 - [Official Links](#official-links)
 - [Community](#community)
-- Resources
-  - [Core Technologies](#core-technologies)
-  - [Articles](#articles)
-- Showcase
-  - [Official Case Studies](#official-case-studies)
-  - [Examples / Showcases](#examples--showcases)
+- [Core Technologies](#core-technologies)
+- [Articles](#articles)
+- [Official Case Studies](#official-case-studies)
+- [Examples / Showcases](#examples--showcases)
 
 
 ## Official Links
-- Website - [thebcms.com](https://thebcms.com)
-- Demo - [demo.thebcms.com](https://demo.thebcms.com)
-- Tutorials – [thebcms.com/blog/tags/tutorials](https://thebcms.com/blog/tags/tutorials)
-- BCMS Docs - [docs.thebcms.com](https://docs.thebcms.com)
-- Repository - [github.com/bcms/cms](https://github.com/bcms/cms)
-- Starter Projects - [github.com/bcms/starters](https://github.com/bcms/starters)
+- [Website](https://thebcms.com)
+- [Demo](https://demo.thebcms.com)
+- [Tutorials](https://thebcms.com/blog/tags/tutorials)
+- [BCMS Docs](https://docs.thebcms.com)
+- [Repository](https://github.com/bcms/cms)
+- [Starter Projects](https://github.com/bcms/starters)
 
 
 ## Community
@@ -35,7 +33,6 @@ Official list of [awesome](https://github.com/topics/awesome) BCMS resources, ar
 - [Vue](https://vuejs.org/) - An approachable, performant and versatile JavaScript framework for building web user interfaces.
 - [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework.
 - [Docker](https://www.docker.com/) - A platform designed to help developers build, share, and run container applications.
-
 
 ## Articles
 
